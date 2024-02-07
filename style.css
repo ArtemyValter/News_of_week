@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #4DAF00;
+}
+nav{
+    display: flex;
+    width: 90%;
+    justify-content: space-around;
+}
+nav>a{
+    color: #000;
+    font-size: 36px;
+    font-weight: 400;
+    
+}
+.real2018{
+    margin-bottom: 120px;
+
+}
+.real2018>img{
+    width: 40%;
+}
+.real2018, .barca2018{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.real2018_img{
+    align-self: flex-start;
+
+}
+.barca2018>img{
+    width: 40%;    
+}
+.team{
+    background-image: url(images/football__pitch1.png);
+    padding: 15px 15px 60px 15px;
+}
+h1{
+    display: flex;
+    align-items: center;
+    background: #4DAF00;
+    justify-content: space-around;
+
+}
+.top_news{
+    text-align: center;
+
+}
+.tottencham1{
+    margin-bottom: 80px;
+    
+
+}
+.tottencham1>img{
+    width: 70%;
+
+}
+.tottencham2{
+    background-image: url(images/football__pitch2.png);
+    padding: 15px 15px 60px 15px;
+
+
+}
+.salah>img{
+    width: 70%;
+
+}
+.section_news_of_week{
+    text-align: center;
+
+}
+
+.news_of_week{
+    display: flex;
+    align-items: center;
+    background: #4DAF00;
+    justify-content: space-around;
+
+}   
+.shaktar>img{
+    width: 70%;
+}
+.shaktar{
+    background-image: url(images/football__pitch3.png);
+    padding: 15px 15px 60px 15px;
+   
+}
+.section_news_of_month{
+    text-align: center;
+
+}
+.news_of_month{
+    display: flex;
+    align-items: center;
+    background: #4DAF00;
+    justify-content: space-around;
+
+}
+.forward>img{
+    width: 70%;
+
+}
+.forward{
+    background-image: url(images/football__pitch4.png);
+    padding: 15px 15px 60px 15px;
+}
+footer{
+    background: #4DAF00;
+}
+
