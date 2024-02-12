@@ -1,6 +1,10 @@
 *{
     margin: 0;
 }
+p{
+    font-size: 36px;
+
+}
 header{
     display: flex;
     align-items: center;
@@ -17,6 +21,10 @@ nav>a{
     font-size: 36px;
     font-weight: 400;
     
+}
+.team_text{
+    font-size: 25px;
+
 }
 .real2018{
     margin-bottom: 120px;
@@ -47,6 +55,7 @@ h1{
     align-items: center;
     background: #4DAF00;
     justify-content: space-around;
+    padding: 15px 15px 15px 15px;
 
 }
 .top_news{
@@ -82,6 +91,8 @@ h1{
     align-items: center;
     background: #4DAF00;
     justify-content: space-around;
+    padding: 15px 15px 15px 15px;
+
 
 }   
 .shaktar>img{
@@ -101,6 +112,7 @@ h1{
     align-items: center;
     background: #4DAF00;
     justify-content: space-around;
+    padding: 15px 15px 15px 15px;
 
 }
 .forward>img{
@@ -113,5 +125,11 @@ h1{
 }
 footer{
     background: #4DAF00;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
+
+
+
 
